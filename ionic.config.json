@@ -1,0 +1,8 @@
+{
+  "name": "hanouty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "fba81d85"
+}
